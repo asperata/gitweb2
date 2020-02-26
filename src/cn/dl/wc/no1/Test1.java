@@ -12,5 +12,6 @@ public class Test1 {
 		System.out.println("你好");
 		System.out.println("world");
 		System.out.println("22222222");
+		System.out.println("111111");
 	}
 }
