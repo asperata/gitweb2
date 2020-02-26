@@ -5,5 +5,6 @@ public class World {
 	public void print() {
 		
 		System.out.println("print");
+		System.out.println("ÐÂ·ÖÖ§");
 	}
 }
